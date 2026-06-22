@@ -11,3 +11,5 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
+<img width="1584" height="672" alt="Image" src="https://github.com/user-attachments/assets/f8a9c615-049a-4c0f-b215-91a6cc151862" />
