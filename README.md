@@ -12,6 +12,8 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-## Project T-cube: https://tcube-landing.vercel.app
+## 👷‍♂️ Working on:
+
+### 👶 👾 t-cube → https://tcube-landing.vercel.app
 
 <img width="1584" height="672" alt="Image" src="https://github.com/user-attachments/assets/f8a9c615-049a-4c0f-b215-91a6cc151862" />
